@@ -1,7 +1,7 @@
 {
-  "name": "dimension-trails",
+  "name": "core-complexities",
   "version": "0.0.1",
-  "description": "Orbital motion through 01234D & time + Hypothetical stages of emergence",
+  "description": "In our universe, core stages of self-organizing emergent complexity",
   "engines": {
     "node": "11.0.0",
     "npm": "6.4.2"
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexburner/dimension-trails.git"
+    "url": "git+https://github.com/alexburner/core-complexities.git"
   },
   "keywords": [
     "multidimensional",
@@ -40,9 +40,9 @@
   "author": "aburner",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexburner/dimension-trails/issues"
+    "url": "https://github.com/alexburner/core-complexities/issues"
   },
-  "homepage": "https://github.com/alexburner/dimension-trails#readme",
+  "homepage": "https://github.com/alexburner/core-complexities#readme",
   "devDependencies": {
     "@types/three": "0.93.4",
     "parcel-bundler": "1.10.3",

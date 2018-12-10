@@ -1,10 +1,10 @@
-# dimension trails
+# core complexities
 
-Orbital motion through 01234D & time + Hypothetical stages of emergence
+In our universe, core stages of self-organizing emergent complexity
 
-[![](https://i.imgur.com/TNiCWmRl.png)](https://alexburner.github.io/dimension-trails)
+[![](https://i.imgur.com/TNiCWmRl.png)](https://alexburner.github.io/core-complexities)
 
-Static site — [https://alexburner.github.io/dimension-trails](https://alexburner.github.io/dimension-trails)
+Static site — [https://alexburner.github.io/core-complexities](https://alexburner.github.io/core-complexities)
 
 Playground — [https://alexburner.github.io/dimensions](https://alexburner.github.io/dimensions)
 
