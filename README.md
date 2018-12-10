@@ -24,10 +24,6 @@ Playground — [https://alexburner.github.io/dimensions](https://alexburner.gith
 > - [Consciousness - Awareness as Attention](https://aeon.co/essays/how-consciousness-works-and-why-we-believe-in-ghosts) | Michael Graziano
 > - [Consciousness as a State of Matter](https://medium.com/the-physics-arxiv-blog/why-physicists-are-saying-consciousness-is-a-state-of-matter-like-a-solid-a-liquid-or-a-gas-5e7ed624986d) | Max Tegmark
 
-### Codes
-
-> - [Gravitational Attraction - Nature of Code](https://natureofcode.com/book/chapter-2-forces/#29-gravitational-attraction) | Daniel Shiffman
-
 # Development
 
 ## install
