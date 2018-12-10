@@ -2,6 +2,8 @@
 
 In our universe, core stages of self-organizing emergent complexity
 
+Using 01234D spacetime trails of orbital motion as a visual metaphor
+
 [![](https://i.imgur.com/TNiCWmRl.png)](https://alexburner.github.io/core-complexities)
 
 Static site — [https://alexburner.github.io/core-complexities](https://alexburner.github.io/core-complexities)
