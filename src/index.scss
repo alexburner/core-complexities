@@ -19,9 +19,12 @@ body {
 }
 
 body {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 40px;
+
   background-color: #000;
   color: #fff;
-  padding-bottom: 40px;
 
   &::after {
     content: '';
@@ -98,7 +101,7 @@ dl {
       // hack it up
       margin-left: 5px;
       position: relative;
-      top: -2px;
+      top: -1px;
     }
   }
 
